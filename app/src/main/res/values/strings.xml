@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">清屏</string>
+    <string name="accessibility_service_label">清屏 · 自动跳过开屏广告</string>
+    <string name="accessibility_service_description">清屏通过无障碍服务，在其他 App 弹出开屏广告时自动点击“跳过”按钮，并在误触跳转到购物或浏览器时自动返回。所有统计只保存在本机，不联网、不上传。</string>
+</resources>
